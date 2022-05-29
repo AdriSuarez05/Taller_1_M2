@@ -5,6 +5,12 @@ Created on Sat May 28 13:23:27 2022
 @author: Adriana Suarez
 """
 
+"""
+email: adriana.suarezb@upb.edu.co
+ID: 502197
+
+"""
+
 a = 2
 b = 3
 c = 5
